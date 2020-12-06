@@ -84,3 +84,28 @@
 .sidebar__profileInfo .MuiSvgIcon-root {
   padding: 10px;
 }
+
+.sidebar__profileIcons {
+  display: flex;
+}
+
+.logout {
+  transition: transform 300ms ease-in;
+  cursor: pointer;
+  display: flex;
+}
+
+.logout:hover {
+  transform: scale(1.05);
+  color: red;
+}
+
+.otherIcons {
+  margin-left: 200px;
+}
+
+@media (max-width: 768px) {
+  .otherIcons {
+    margin-left: 30px;
+  }
+}
