@@ -1,6 +1,6 @@
 discord clone app with react and redux and firebase Authentication .... you can see the demo => https://discord-dd9a1.web.app
-create new channel(for create click + on left side)
-send and see messages (for send message click the channel you have created)
+....create new channel(for create click + on left side)....
+...send and see messages (for send message click the channel you have created)...
 
 // Farnood Lotfali
 
