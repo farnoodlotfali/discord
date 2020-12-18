@@ -1,3 +1,10 @@
+discord clone app with react and redux and firebase Authentication .... you can see the demo => https://discord-dd9a1.web.app
+create new channel(for create click + on left side)
+send and see messages (for send message click the channel you have created)
+
+// Farnood Lotfali
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
